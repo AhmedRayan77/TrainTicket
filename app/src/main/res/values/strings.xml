@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TrainTicket</string>
+    <string name="newTicket">حجز رحلة</string>
+    <string name="showTime">الرحلات المتاحة</string>
+    <string name="editOrDelete">تعديل/حذف الحجز</string>
+    <string name="train_logo">logo</string>
+    <string name="goAndBack">ذهاب وعودة</string>
+    <string name="goOnly">ذهاب</string>
+    <string name="to_text">محطة المغادرة:</string>
+    <string name="from_text">محطة الوصول:</string>
+
+    <string-array name="stations">
+        <item>اختر رجاءً</item>
+        <item>MED-المدينة المنورة</item>
+        <item>MAK-مكة المكرمة</item>
+        <item>KAIA-مطار الملك عبدالعزيز الدولي</item>
+        <item>KACE-مدينة الملك عبدالله الإقتصادية</item>
+    </string-array>
+
+    <string name="high_class">RHP - الأعمال</string>
+    <string name="normal_class">FRST - لإقتصادية</string>
+
+
+</resources>
